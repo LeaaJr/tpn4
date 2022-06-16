@@ -1,0 +1,35 @@
+[{
+    "ID":0,
+    "nombre":"mozza",
+    "ingredientes":"'salsa,oregano,mozzarella,aceitunas'",
+    "precio": 600
+    
+},{
+    "ID":1,
+    "nombre":"tomate",
+    "ingredientes":"'salsa,oregano,mozzarella,aceitunas,tomate'",
+    "precio": 640
+
+},{
+    "ID":2,
+    "nombre":"morron",
+    "ingredientes":"'salsa,oregano,mozzarella,aceitunas,morron'",
+    "precio": 670
+},{
+    "ID":3,
+    "nombre":"napolitana",
+    "ingredientes":"'salsa,oregano,mozzarella,aceitunas,jamon,tomate'",
+    "precio": 710
+},{
+    "ID":4,
+    "nombre":"jamon y panceta",
+    "ingredientes":"'salsa,oregano,mozzarella,aceitunas,jamon,panceta'",
+    "precio": 770
+},{
+    "ID":5,
+    "nombre":"4 quesos",
+    "ingredientes":"'salsa,oregano,aceitunas,mozzarella, queso azul, parmesano, provolone'",
+    "precio": 770
+}]
+
+
